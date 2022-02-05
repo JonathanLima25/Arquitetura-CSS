@@ -27,7 +27,7 @@
     font-weight: bold;
 }
 
-.cabecalho__lista-itemm:last-child .cabecalho__lista--link{
+.cabecalho__lista--itemm:last-child .cabecalho__lista--link{
     margin-right: 0;
 } 
 
